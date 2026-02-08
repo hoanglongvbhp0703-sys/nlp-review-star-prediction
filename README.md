@@ -5,6 +5,10 @@ The project also includes a Streamlit dashboard for model inference and evaluati
 
 The goal is to build an end-to-end NLP pipeline, from dataset preparation and model training to deployment-ready demo.
 
+
+Demo:
+![Streamlit dashboard demo](streamlit_demo.gif)
+
 Video link:
 https://youtu.be/h0ii_3tDnmU
 
