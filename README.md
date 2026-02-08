@@ -42,22 +42,26 @@ data/review.csv
 
 ## Project Structure
 
+```text
 .
-├─ src/
-│  ├─ clean_data.py
-│  ├─ tokenize_data.py
-│  ├─ padding_data.py
-│  └─ embedding_data.py
-├─ train_model/
-│  ├─ train_lstm.py
-│  ├─ lstm_model.py
-│  └─ artifacts/
-│     └─ dashboard_streamlit.py
-├─ data/                     # review.csv (not committed)
-├─ models/                   # trained models
-├─ artifacts/                # vectorizer and artifacts
-├─ .gitignore
-└─ README.md
+├── src/
+│   ├── clean_data.py          # Text cleaning and preprocessing
+│   ├── tokenize_data.py       # Tokenization logic
+│   ├── padding_data.py        # Sequence padding
+│   └── embedding_data.py      # Embedding preparation
+│
+├── train_model/
+│   ├── train_lstm.py          # Training script
+│   ├── lstm_model.py          # LSTM model definition
+│   └── artifacts/
+│       └── dashboard_streamlit.py  # Streamlit dashboard
+│
+├── data/                      # Dataset (review.csv, not committed)
+├── models/                    # Trained model files
+├── artifacts/                 # Saved vectorizer and artifacts
+├── .gitignore
+└── README.md
+
 
 ## Requirements
 
