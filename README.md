@@ -62,7 +62,7 @@ data/review.csv
 ├── .gitignore
 └── README.md
 
-
+```
 ## Requirements
 
 - Python 3.10 or higher (recommended: Python 3.11)
