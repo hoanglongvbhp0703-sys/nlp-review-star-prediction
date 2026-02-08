@@ -1,0 +1,7 @@
+.venv
+*.pkl
+__pycache__/
+.vscode/
+data/
+artifacts/
+models/
