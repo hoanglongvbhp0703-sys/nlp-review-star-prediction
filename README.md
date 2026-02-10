@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=140&section=header&text=NLP%20Review%20Star%20Prediction&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-LSTM%20Model-6366f1?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Task-5--Class%20Classification-ec4899?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Demo-Streamlit-ff4b4b?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataset-Kaggle-20beff?logo=kaggle&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>End-to-end NLP pipeline · Training → Evaluation → Demo</b>
+</p>
+
+---
 # NLP Review Star Prediction
 
 This project focuses on predicting review star ratings (1–5) from textual reviews using an LSTM-based NLP model.  
